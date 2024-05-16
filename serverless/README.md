@@ -15,7 +15,7 @@ This project provides a modular and flexible framework for analyzing text files 
 
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/text_analysis.git
+git clone https://github.com/Nstampfli/text_analyse_serverless_py.git
 cd text_analysis/serverless
 ```
 
