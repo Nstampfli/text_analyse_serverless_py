@@ -1,5 +1,16 @@
 # Text Analysis Project
 
+> **Note**: This project is a school assignment for a serverless computing course, implemented using Apache OpenWhisk.
+
+This project was developed as part of a group assignment by:
+
+- Nathan Stampfli
+- Jason Leroy
+- Thomas Moumousseau
+- Amine Affif
+
+(5aCTO)
+
 > **Warning**: The serverless part of this project is not fully functional and serves only as a project trace. The traditional Python implementation works perfectly fine.
 
 This project provides a comprehensive framework for analyzing text files. It includes functionalities such as word frequency analysis, word cloud generation, sentence summarization, and various visualizations. The project is divided into two main parts:
