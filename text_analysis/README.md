@@ -47,7 +47,7 @@ Welcome to the Text Analysis Project! This project provides a modular and flexib
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/text_analysis.git
+    git clone https://github.com/Nstampfli/text_analyse_serverless_py.git
     cd text_analysis
     ```
 
