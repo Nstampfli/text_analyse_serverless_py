@@ -49,6 +49,7 @@ Welcome to the Text Analysis Project! This project provides a modular and flexib
     ```bash
     git clone https://github.com/Nstampfli/text_analyse_serverless_py.git
     cd text_analysis
+    mkdir outputs
     ```
 
 2. **Install required packages**:
